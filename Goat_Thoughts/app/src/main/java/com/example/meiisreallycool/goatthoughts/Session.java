@@ -9,4 +9,5 @@ import androidx.room.PrimaryKey;
 public class Session {
     @PrimaryKey(autoGenerate = true) public long sessionID;
     public Date date;
+    public long providerSessionID;
 }
