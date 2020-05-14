@@ -7,7 +7,7 @@ import androidx.room.Query;
 public abstract class TalkingPointDao implements BaseDao<TalkingPoint> {
 
     @Query("SELECT * FROM talking_points WHERE sessionTpID = :id")
-    abstract TalkingPoint getTalkingPoints(int id);
+    abstract TalkingPoint[] getTalkingPoints(int id);
 
 }
 
