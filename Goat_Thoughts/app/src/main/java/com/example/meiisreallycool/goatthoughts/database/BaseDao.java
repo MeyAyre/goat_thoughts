@@ -1,4 +1,4 @@
-package com.example.meiisreallycool.goatthoughts;
+package com.example.meiisreallycool.goatthoughts.database;
 
 import java.util.List;
 

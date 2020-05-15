@@ -1,5 +1,12 @@
 package com.example.meiisreallycool.goatthoughts;
 
+import com.example.meiisreallycool.goatthoughts.database.Provider;
+import com.example.meiisreallycool.goatthoughts.database.ProviderDao;
+import com.example.meiisreallycool.goatthoughts.database.Session;
+import com.example.meiisreallycool.goatthoughts.database.SessionDao;
+import com.example.meiisreallycool.goatthoughts.database.TalkingPoint;
+import com.example.meiisreallycool.goatthoughts.database.TalkingPointDao;
+
 import androidx.room.Database;
 import androidx.room.RoomDatabase;
 

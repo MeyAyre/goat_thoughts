@@ -8,5 +8,6 @@
     <string name="title_activity_show_providers">show_providers</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="add_provider">Add Provider</string>
     <string name="home_no_providers">There\'s no one here.... Add a provider to get started</string>
 </resources>

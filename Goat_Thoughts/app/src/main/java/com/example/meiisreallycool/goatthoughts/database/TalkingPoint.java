@@ -1,4 +1,4 @@
-package com.example.meiisreallycool.goatthoughts;
+package com.example.meiisreallycool.goatthoughts.database;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
