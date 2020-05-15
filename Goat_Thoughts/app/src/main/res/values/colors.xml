@@ -5,5 +5,8 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorHeader">#7e25b6d6</color>
     <color name="black">#fc000000</color>
-
+    <color name="pink">#deff6dbc</color>
+    <color name="purple">#c2af74e7</color>
+    <color name="green">#c9b1e997</color>
+    <color name="select_blue">#25B6D6</color>
 </resources>
