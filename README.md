@@ -1,6 +1,7 @@
 # Goat Thoughts
 Goat Thoughts is an Android app designed to help everyone from clients in therapy to patients seeing their doctors log and organize their thoughts in-between sessions.
 
+
 ## How it works
 Simply add a provider, add an upcoming session, and start logging your Thoughts for the next time you see your provider. 
 
